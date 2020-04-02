@@ -4,12 +4,7 @@ Base image with:
 - python 3.7.3
 - node 10.15.3
 - npm 6.9.0
-- chromedriver 2.44
-- sonarscanner 3.3.0.1492
-- java 8
-- maven 3.6.1
 - angular cli 7.3.9
-- google-chrome
 
 # Docker hub
 
